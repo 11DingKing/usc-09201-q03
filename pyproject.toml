@@ -1,0 +1,8 @@
+[project]
+name = "usc_09201_03"
+version = "0.1.0"
+description = "林地价值证据仓服务基础"
+requires-python = ">=3.11"
+
+[tool.unittest]
+start-directory = "tests"
